@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wall CMakeFiles/SecondProgram.dir/main.cpp.o CMakeFiles/SecondProgram.dir/server_obj.cpp.o -o SecondProgram 
