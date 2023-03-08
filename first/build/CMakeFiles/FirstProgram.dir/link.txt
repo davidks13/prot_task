@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wall CMakeFiles/FirstProgram.dir/main.cpp.o CMakeFiles/FirstProgram.dir/thread_obj.cpp.o -o FirstProgram 

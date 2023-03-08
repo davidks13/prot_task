@@ -1,3 +1,0 @@
-/home/david/Desktop/project/first/build/CMakeFiles/FirstProgram.dir
-/home/david/Desktop/project/first/build/CMakeFiles/edit_cache.dir
-/home/david/Desktop/project/first/build/CMakeFiles/rebuild_cache.dir
