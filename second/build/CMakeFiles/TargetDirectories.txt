@@ -1,3 +1,0 @@
-/home/david/Desktop/project/second/build/CMakeFiles/SecondProgram.dir
-/home/david/Desktop/project/second/build/CMakeFiles/edit_cache.dir
-/home/david/Desktop/project/second/build/CMakeFiles/rebuild_cache.dir
